@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @LynnSha1ng
+- 🌱 A late-start beginner currently learning C/C++, HTML/CSS/JS.
