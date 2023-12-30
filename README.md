@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @LynnSha1ng
-- 🌱 A late-start beginner currently learning C/C++, HTML/CSS/JS.
+Hi👋, I’m @LynnSha1ng, a late-start beginner currently learning Vue and relevant tech stacks.
