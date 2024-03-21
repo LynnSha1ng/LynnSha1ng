@@ -1,1 +1,1 @@
-Hi👋, I’m @LynnSha1ng, a late-start beginner currently learning Vue and relevant tech stacks.
+Hi👋, I’m @LynnSha1ng, a newbie ftontend coder currently learning Vue 3 and relevant tech stacks.
